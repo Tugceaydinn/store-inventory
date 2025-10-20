@@ -63,7 +63,6 @@ store-inventory/
 mvn -q -DskipTests package
 ▶️ Run
 bash
-Kodu kopyala
 java -cp target/store-inventory-1.0.0.jar store.App
 🧪 Test
 bash
