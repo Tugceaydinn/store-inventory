@@ -3,7 +3,7 @@
 ## Project Structure
 
 📁 Project Structure
-store-inventory/
+```store-inventory/
 ├─ pom.xml
 ├─ README.md
 ├─ LICENSE
@@ -20,3 +20,4 @@ store-inventory/
 └─ test/java/store
 ├─ InventoryTest.java
 └─ FileStorageTest.java
+```
