@@ -1,3 +1,5 @@
+[![Build](https://github.com/Tugceaydinn/store-inventory/actions/workflows/ci.yml/badge.svg)](https://github.com/Tugceaydinn/store-inventory/actions/workflows/ci.yml)
+
 # 🏪 Store Inventory (Java)
 
 [![Build](https://github.com/Tugceaydinn/store-inventory/actions/workflows/ci.yml/badge.svg)](https://github.com/Tugceaydinn/store-inventory/actions/workflows/ci.yml)  
