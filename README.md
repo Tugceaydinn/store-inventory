@@ -37,10 +37,8 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
-## Project Structure
-
-📁 Project Structure
-```store-inventory/
+```
+store-inventory/
 ├─ pom.xml
 ├─ README.md
 ├─ LICENSE
@@ -58,8 +56,6 @@ This project demonstrates:
 ├─ InventoryTest.java
 └─ FileStorageTest.java
 ```
----
-
 ## ⚡ Getting Started
 
 ### 📦 Build
@@ -71,11 +67,9 @@ Kodu kopyala
 java -cp target/store-inventory-1.0.0.jar store.App
 🧪 Test
 bash
-Kodu kopyala
 mvn -q test
 🧾 Sample Output
 pgsql
-Kodu kopyala
 -- Current Stock --
 P001 | Skirt | 10 pcs | price=19.99
 P002 | Sweater | 5 pcs | price=29.99
@@ -115,5 +109,3 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 Contributions, issues and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
-yaml
-Kodu kopyala
